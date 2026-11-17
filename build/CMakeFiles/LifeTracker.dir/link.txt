@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/LifeTracker.dir/link.d CMakeFiles/LifeTracker.dir/main.cpp.o -o LifeTracker  graphics/libgraphics.a _deps/glfw-build/src/libglfw3.a /usr/lib64/librt.a -lm -ldl /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so
